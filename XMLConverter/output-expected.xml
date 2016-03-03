@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authenticate method="password">
+<credentials>
+<name type="UPN">JoeSmith@example.com</name>
+<password>Secret-956</password>
+</credentials>
+<protocol>LDAP</protocol>
+<timeout>40</timeout>
+</authenticate>

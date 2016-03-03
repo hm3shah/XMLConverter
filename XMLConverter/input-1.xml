@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authenticate method="password">
+<via>LDAP</via>
+<credentials>
+<name>JoeSmith</name>
+<domain>example.com</domain>
+<password hide="on">Secret-956</password>
+</credentials>
+<timeout>40</timeout>
+</authenticate>
